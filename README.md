@@ -6,7 +6,7 @@ This repository contains my solutions to the Module - 2, 3, 4, 5 Coding Assignme
 
 <hr>
 <b>Assignment Links:</b> <br>
-- [Module Assignment 2, 3, 4, 5](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments)
+- Module Assignment 2, 3, 4, 5 (https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments)
 <br>
 
 <b>Solution Links:</b> <br>
